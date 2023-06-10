@@ -4,7 +4,8 @@ window.addEventListener("load", () => {
 
 class Main {
   constructor() {
-    this.key = "AIzaSyAyn581MyHSo2LnR9LkX9jp2z92h9lrdS4";
+    //Here you can add your Google API Key
+    this.key = "";
     this.#apiYoutube();
   }
 
