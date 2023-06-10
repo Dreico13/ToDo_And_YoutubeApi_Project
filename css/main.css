@@ -1,0 +1,34 @@
+.todo {
+    height: 40vh;
+}
+
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif !important;
+    color: black;
+}
+
+.toDoList {
+    background-color: rgb(255, 204, 000);
+}
+
+.create {
+    background-color: rgb(255, 255 ,255);
+}
+
+#yesSave {
+    background-color: rgb(102, 204, 000);
+}
+
+#noSave {
+    background-color: rgb(204, 000, 000);
+}
+
+#closeButton {
+    background-color: rgb(153, 153, 153);
+}
+
+
+
+
+
+
